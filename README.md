@@ -30,10 +30,7 @@ The version of ruby that is needed for this project is
 
 Link for my react.js front-end app 
 
-```
-
-[React App](https://github.com/Reem-lab/hello-react-front-end)
-```
+[ReactApp](https://github.com/Reem-lab/hello-react-front-end)
 
 Once you have installed them, you need to use the following command to clone the repository:
 
