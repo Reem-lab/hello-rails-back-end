@@ -6,6 +6,11 @@
 > A simple App to create API by rails to connect with a front-end and print greetings.
 
 
+## Link for my react.js front-end app 
+
+[ReactApp Repo](https://github.com/Reem-lab/hello-react-front-end)
+
+
 ## Built With
 
 - Ruby
@@ -28,9 +33,6 @@ The version of ruby that is needed for this project is
 + 3.1.1
 
 
-Link for my react.js front-end app 
-
-[ReactApp](https://github.com/Reem-lab/hello-react-front-end)
 
 Once you have installed them, you need to use the following command to clone the repository:
 
